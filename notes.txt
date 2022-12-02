@@ -1,0 +1,9 @@
+step1: login in github from vs code
+step2 : source control
+step 3: Initialize repository
+step 4 : commit message
+step5 : commit button
+step 6 : publish branch button
+step 7 : repository name
+step 8: public repository
+step 9 : check on github
